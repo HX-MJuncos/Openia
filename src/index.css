@@ -1,13 +1,22 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+h1{
+    text-align: center;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.Openai{
+    background-color: aqua;
+    padding: 2rem;
+    margin: 1rem;    
+}
+.text-area{
+    background-color: aquamarine;
+    padding: 2rem;
+    margin: 1rem;
+}
+.btn{
+    background-color: red;
+    padding: 1rem;
+    margin: 1rem;
+}
+footer{
+    color: azure;
+    text-align: center;
 }
